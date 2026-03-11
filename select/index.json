@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "地球内生命体",
+  "base_artist": "ササフネ",
+  "createdAt": "2026-03-11T09:13:46.935815Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地球内生命体 (feat. 羽累)",
+      "artist": "ササフネ",
+      "has_synced": false,
+      "path": "select/pl_01_地球内生命体_(feat._羽累)_ササフネ.txt"
+    }
+  ]
+}
